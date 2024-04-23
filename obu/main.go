@@ -1,7 +1,5 @@
 package main
 
-// next 44
-
 import (
 	"log"
 	"math"
