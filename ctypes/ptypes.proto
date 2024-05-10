@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+option go_package = "toll_calculator/ctypes";
+
+message Test {
+    int32 someint = 1;
+}
